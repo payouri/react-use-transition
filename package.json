@@ -27,7 +27,7 @@
   },
   "name": "@youri-kane/use-transition",
   "description": "React hook inspired by react-transition-group &lt;Transition/> class component",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "dist/index.js",
   "dependencies": {},
   "repository": {
