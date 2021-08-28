@@ -1,1 +1,6 @@
 src
+node_modules
+tsconfig.json
+.eslintrc
+.gitignore
+.prettierrc.json
